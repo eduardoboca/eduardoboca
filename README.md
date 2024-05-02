@@ -1,7 +1,6 @@
-### Eduardo Freitas
+## Eduardo Freitas
 
 Com mais de 20 anos no mundo tech, já fui de gerente de projetos a CEO de startup. 
-
 Agora voltei às raízes, focando em C#. 
 
 <!--
