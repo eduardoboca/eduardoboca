@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Com mais de 20 anos no mundo tech, já fui de gerente de projetos a CEO de startup. 
+
+Agora voltei às raízes, focando em C#. 
+
 <!--
 **eduardoboca/eduardoboca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
