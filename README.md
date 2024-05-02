@@ -2,6 +2,11 @@
 
 Com mais de 20 anos no mundo tech, já fui de gerente de projetos a CEO de startup. 
 Agora voltei às raízes, focando em C#. 
+<br>Atualmente trabalho no Departamento de Sistemas de Informação da [Alepe](https://www.alepe.pe.gov.br)
+
+### Contato
+  <a href="https://www.linkedin.com/in/eduardo-freitas-ehff/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a> 
+
 
 <!--
 **eduardoboca/eduardoboca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
