@@ -19,7 +19,7 @@ Agora voltei às raízes, focando em C#.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardoboca&repo=desafio-balta-may-the-fourth-backend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduardoboca/desafio-balta-may-the-fourth-backend)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardoboca&repo=carnacode-balta-2024-desafio-03&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduardoboca/carnacode-balta-2024-desafio-03)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardoboca&repo=carnacode-balta-2024-webapp-blazor-pwa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduardoboca/carnacode-balta-2024-webapp-blazor-pwa)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardoboca&repo=cursodevops-kube-news&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduardoboca/cursodevops-kube-news)
 
