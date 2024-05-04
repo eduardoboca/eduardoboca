@@ -1,8 +1,9 @@
 ## Eduardo Freitas
 
-Com mais de 20 anos no mundo tech, já fui de gerente de projetos a CEO de startup. 
-Agora voltei às raízes, focando em C#. 
-<br>Atualmente trabalho no Departamento de Sistemas de Informação da [Alepe](https://www.alepe.pe.gov.br).
+With over 20 years in the tech world, I've gone from project manager to startup CEO. 
+Now, I've returned to my roots, focusing on C#. 
+
+<br>Currently, I work in the Information Systems Department at [Alepe](https://www.alepe.pe.gov.br).
 
 ### Tecnologias
 
