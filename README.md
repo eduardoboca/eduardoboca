@@ -1,7 +1,7 @@
 ## Eduardo Freitas
 
 With over 20 years in the tech world, I've gone from project manager to startup CEO. 
-Now, I've returned to my roots, focusing on C#. 
+<br>Now, I've returned to my roots, focusing on C#. 
 
 <br>Currently, I work in the Information Systems Department at [Alepe](https://www.alepe.pe.gov.br).
 
