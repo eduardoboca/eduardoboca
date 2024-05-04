@@ -5,7 +5,7 @@ With over 20 years in the tech world, I've gone from project manager to startup 
 
 <br>Currently, I work in the Information Systems Department at [Alepe](https://www.alepe.pe.gov.br).
 
-### Tecnologias
+### Technologies
 
 <div style="display: inline_block">
     <img align="center" alt="tecnologias" src="https://skillicons.dev/icons?i=dotnet,python,php">
@@ -14,7 +14,8 @@ With over 20 years in the tech world, I've gone from project manager to startup 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoboca&hide=html,css)](https://github.com/eduardoboca/github-readme-stats)
 
-## Repositórios mais relevantes
+## Most relevant repositories
+Just so you know, a good chunk of my genius is hiding out in my super exclusive private repos. Sorry about that :smile:
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardoboca&repo=whatsapp-bot&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduardoboca/whatsapp-bot)
 
