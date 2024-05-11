@@ -19,6 +19,8 @@ Just so you know, a good chunk of my genius is hiding out in my super exclusive 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardoboca&repo=whatsapp-bot&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduardoboca/whatsapp-bot)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardoboca&repo=YouTubeClipper&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduardoboca/YoutubeClipper)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardoboca&repo=desafio-balta-may-the-fourth-backend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduardoboca/desafio-balta-may-the-fourth-backend)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardoboca&repo=carnacode-balta-2024-webapp-blazor-pwa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eduardoboca/carnacode-balta-2024-webapp-blazor-pwa)
